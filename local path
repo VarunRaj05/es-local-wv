@@ -1,0 +1,30 @@
+
+
+C:\Users\Ja\Downloads\pptdocsrcfile
+
+C:\Users\Ja\Downloads\pptdocsrcfile\cdxfiles
+BL-100267.cdx
+BL-100272_1-20080208142908-00000.cdx
+BL-100272_1-20080208143156-00000.cdx
+BL-100275.cdx
+C:\Users\Ja\Downloads\pptdocsrcfile\arcfiles
+BL-100267.arc.gz
+BL-100272_1-20080208142908-00000.arc.gz
+BL-100272_1-20080208143156-00000.arc.gz
+BL-100275.arc.gz
+
+arcfile = "C:\\Users\\Ja\\Downloads\\pptdocsrcfile\\arcfiles\\BL-100267.arc.gz" //give  thek full ofile  name
+cdxfile = "C:\\Users\\Ja\\Downloads\\pptdocsrcfile\\cdxfiles\\BL-100267.cdx"
+dnsfiles = "C:\\Users\\Ja\\Google Drive\\oldfiles\\Note\\srcfile\\SearchWhitelist\\dns_*"
+
+
+
+-----------------
+
+Output	Bug/issues
+
+Investigation
+
+Tika - rendering format issues
+
+-----------------

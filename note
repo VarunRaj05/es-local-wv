@@ -1,0 +1,19 @@
+
+https://mvnrepository.com/artifact/html-soup/html-soup/1.4.1
+
+<!-- https://mvnrepository.com/artifact/html-soup/html-soup -->
+<dependency>
+    <groupId>html-soup</groupId>
+    <artifactId>html-soup</artifactId>
+    <version>1.4.1</version>
+</dependency>
+
+----------------------
+https://mvnrepository.com/artifact/org.swinglabs/pdf-renderer/1.0.5
+
+<!-- https://mvnrepository.com/artifact/org.swinglabs/pdf-renderer -->
+<dependency>
+    <groupId>org.swinglabs</groupId>
+    <artifactId>pdf-renderer</artifactId>
+    <version>1.0.5</version>
+</dependency>
